@@ -22,6 +22,6 @@ If you'd like to help with development, here's what you'll need to do:
 ## Contact Us
 ### Developers
 - Anthony Kulololia
-- Daniel Koo
+- <a href="https://github.com/dankoo">Daniel Koo</a>
 - Dylan Pavao
 - <a href="https://github.com/jchock">Justin Chock</a>
